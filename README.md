@@ -18,6 +18,6 @@ Duas classes de testes para usuário e CPF.
 
 #### Classes
 
-- [Model]('https://github.com/Elite-Sapiens/cad-cpf/tree/main/src/main/java/com/elitesapiens/domain/model')
-- [Exceptions]('https://github.com/Elite-Sapiens/cad-cpf/tree/main/src/main/java/com/elitesapiens/domain/model/exceptions')
-- [Tests]('https://github.com/Elite-Sapiens/cad-cpf/tree/main/src/test/java/com/elitesapiens/domain/model')
+- [Model](https://github.com/Elite-Sapiens/cad-cpf/tree/main/src/main/java/com/elitesapiens/domain/model)
+- [Exceptions](https://github.com/Elite-Sapiens/cad-cpf/tree/main/src/main/java/com/elitesapiens/domain/model/exceptions)
+- [Tests](https://github.com/Elite-Sapiens/cad-cpf/tree/main/src/test/java/com/elitesapiens/domain/model)
